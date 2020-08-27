@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "bootcampList": [
+    [
+          'Le Wagon',
+          'App Academy',
+          'Ironhack',
+          'General Assembly',
+          'Hackwagon Academy',
+          'Springboard',
+          'Udacity',
+          'Bloc',
+          'Thinkful',
+          'NYC Data Science Academy',
+          'Dataquest',
+          'Coding Dojo',
+          'Juno College of Technology',
+          'Flatiron School',
+          'Hack Reactor',
+          'The Tech Academy',
+          'Product School',
+          'Codesmith',
+          'Actualize',
+          'Makers Academy',
+          'Product Gym',
+          'BrainStation',
+          'Lambda School',
+          'Tech Talent South',
+          'Epicodus',
+          'RMOTR'
+        ]
+  ]
 }
