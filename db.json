@@ -1,6 +1,5 @@
 {
   "bootcampList": [
-    [
           'Le Wagon',
           'App Academy',
           'Ironhack',
@@ -27,6 +26,5 @@
           'Tech Talent South',
           'Epicodus',
           'RMOTR'
-        ]
   ]
 }
